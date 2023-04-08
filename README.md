@@ -1,6 +1,6 @@
 ---
-title: Video To Canny Edge
-emoji: 🏢
+title: Video To OpenPose
+emoji: 🕺
 colorFrom: yellow
 colorTo: blue
 sdk: gradio
