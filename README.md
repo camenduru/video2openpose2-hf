@@ -4,7 +4,7 @@ emoji: 🕺
 colorFrom: yellow
 colorTo: blue
 sdk: gradio
-sdk_version: 3.23.0
+sdk_version: 3.36.1
 app_file: app.py
 pinned: false
 duplicated_from: fffiloni/video2openpose
