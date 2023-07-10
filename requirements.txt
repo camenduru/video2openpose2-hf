@@ -3,3 +3,4 @@ opencv-python
 ffmpeg-python
 moviepy
 controlnet_aux
+mediapipe
